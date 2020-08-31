@@ -1,0 +1,13 @@
+C:\Users\elev\Documents\GitHub\programmering-2\ageprogram\ageprogram\ageprogram\obj\Debug\netcoreapp3.1\ageprogram.csprojAssemblyReference.cache
+C:\Users\elev\Documents\GitHub\programmering-2\ageprogram\ageprogram\ageprogram\obj\Debug\netcoreapp3.1\ageprogram.AssemblyInfoInputs.cache
+C:\Users\elev\Documents\GitHub\programmering-2\ageprogram\ageprogram\ageprogram\obj\Debug\netcoreapp3.1\ageprogram.AssemblyInfo.cs
+C:\Users\elev\Documents\GitHub\programmering-2\ageprogram\ageprogram\ageprogram\obj\Debug\netcoreapp3.1\ageprogram.csproj.CoreCompileInputs.cache
+C:\Users\elev\Documents\GitHub\programmering-2\ageprogram\ageprogram\ageprogram\bin\Debug\netcoreapp3.1\ageprogram.exe
+C:\Users\elev\Documents\GitHub\programmering-2\ageprogram\ageprogram\ageprogram\bin\Debug\netcoreapp3.1\ageprogram.deps.json
+C:\Users\elev\Documents\GitHub\programmering-2\ageprogram\ageprogram\ageprogram\bin\Debug\netcoreapp3.1\ageprogram.runtimeconfig.json
+C:\Users\elev\Documents\GitHub\programmering-2\ageprogram\ageprogram\ageprogram\bin\Debug\netcoreapp3.1\ageprogram.runtimeconfig.dev.json
+C:\Users\elev\Documents\GitHub\programmering-2\ageprogram\ageprogram\ageprogram\bin\Debug\netcoreapp3.1\ageprogram.dll
+C:\Users\elev\Documents\GitHub\programmering-2\ageprogram\ageprogram\ageprogram\bin\Debug\netcoreapp3.1\ageprogram.pdb
+C:\Users\elev\Documents\GitHub\programmering-2\ageprogram\ageprogram\ageprogram\obj\Debug\netcoreapp3.1\ageprogram.dll
+C:\Users\elev\Documents\GitHub\programmering-2\ageprogram\ageprogram\ageprogram\obj\Debug\netcoreapp3.1\ageprogram.pdb
+C:\Users\elev\Documents\GitHub\programmering-2\ageprogram\ageprogram\ageprogram\obj\Debug\netcoreapp3.1\ageprogram.genruntimeconfig.cache
