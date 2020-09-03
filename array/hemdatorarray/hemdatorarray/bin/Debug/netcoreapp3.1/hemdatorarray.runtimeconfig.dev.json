@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Pontus\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Pontus\\.nuget\\packages"
+    ]
+  }
+}

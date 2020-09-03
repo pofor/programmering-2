@@ -1,0 +1,13 @@
+C:\Users\Pontus\Documents\GitHub\programmering-2\array\hemdatorarray\hemdatorarray\obj\Debug\netcoreapp3.1\hemdatorarray.csprojAssemblyReference.cache
+C:\Users\Pontus\Documents\GitHub\programmering-2\array\hemdatorarray\hemdatorarray\obj\Debug\netcoreapp3.1\hemdatorarray.AssemblyInfoInputs.cache
+C:\Users\Pontus\Documents\GitHub\programmering-2\array\hemdatorarray\hemdatorarray\obj\Debug\netcoreapp3.1\hemdatorarray.AssemblyInfo.cs
+C:\Users\Pontus\Documents\GitHub\programmering-2\array\hemdatorarray\hemdatorarray\obj\Debug\netcoreapp3.1\hemdatorarray.csproj.CoreCompileInputs.cache
+C:\Users\Pontus\Documents\GitHub\programmering-2\array\hemdatorarray\hemdatorarray\bin\Debug\netcoreapp3.1\hemdatorarray.exe
+C:\Users\Pontus\Documents\GitHub\programmering-2\array\hemdatorarray\hemdatorarray\bin\Debug\netcoreapp3.1\hemdatorarray.deps.json
+C:\Users\Pontus\Documents\GitHub\programmering-2\array\hemdatorarray\hemdatorarray\bin\Debug\netcoreapp3.1\hemdatorarray.runtimeconfig.json
+C:\Users\Pontus\Documents\GitHub\programmering-2\array\hemdatorarray\hemdatorarray\bin\Debug\netcoreapp3.1\hemdatorarray.runtimeconfig.dev.json
+C:\Users\Pontus\Documents\GitHub\programmering-2\array\hemdatorarray\hemdatorarray\bin\Debug\netcoreapp3.1\hemdatorarray.dll
+C:\Users\Pontus\Documents\GitHub\programmering-2\array\hemdatorarray\hemdatorarray\bin\Debug\netcoreapp3.1\hemdatorarray.pdb
+C:\Users\Pontus\Documents\GitHub\programmering-2\array\hemdatorarray\hemdatorarray\obj\Debug\netcoreapp3.1\hemdatorarray.dll
+C:\Users\Pontus\Documents\GitHub\programmering-2\array\hemdatorarray\hemdatorarray\obj\Debug\netcoreapp3.1\hemdatorarray.pdb
+C:\Users\Pontus\Documents\GitHub\programmering-2\array\hemdatorarray\hemdatorarray\obj\Debug\netcoreapp3.1\hemdatorarray.genruntimeconfig.cache
