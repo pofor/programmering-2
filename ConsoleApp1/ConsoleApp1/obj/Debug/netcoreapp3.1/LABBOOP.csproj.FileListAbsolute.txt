@@ -1,0 +1,13 @@
+C:\Users\pontus.forslermott\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\LABBOOP.exe
+C:\Users\pontus.forslermott\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\LABBOOP.deps.json
+C:\Users\pontus.forslermott\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\LABBOOP.runtimeconfig.json
+C:\Users\pontus.forslermott\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\LABBOOP.runtimeconfig.dev.json
+C:\Users\pontus.forslermott\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\LABBOOP.dll
+C:\Users\pontus.forslermott\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\LABBOOP.pdb
+C:\Users\pontus.forslermott\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\LABBOOP.csprojAssemblyReference.cache
+C:\Users\pontus.forslermott\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\LABBOOP.AssemblyInfoInputs.cache
+C:\Users\pontus.forslermott\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\LABBOOP.AssemblyInfo.cs
+C:\Users\pontus.forslermott\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\LABBOOP.csproj.CoreCompileInputs.cache
+C:\Users\pontus.forslermott\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\LABBOOP.dll
+C:\Users\pontus.forslermott\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\LABBOOP.pdb
+C:\Users\pontus.forslermott\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\LABBOOP.genruntimeconfig.cache
