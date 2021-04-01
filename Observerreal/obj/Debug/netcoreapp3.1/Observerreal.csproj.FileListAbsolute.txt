@@ -1,0 +1,13 @@
+C:\Users\pontus.forslermott\Documents\GitHub\programmering-2\Observerreal\bin\Debug\netcoreapp3.1\Observerreal.exe
+C:\Users\pontus.forslermott\Documents\GitHub\programmering-2\Observerreal\bin\Debug\netcoreapp3.1\Observerreal.deps.json
+C:\Users\pontus.forslermott\Documents\GitHub\programmering-2\Observerreal\bin\Debug\netcoreapp3.1\Observerreal.runtimeconfig.json
+C:\Users\pontus.forslermott\Documents\GitHub\programmering-2\Observerreal\bin\Debug\netcoreapp3.1\Observerreal.runtimeconfig.dev.json
+C:\Users\pontus.forslermott\Documents\GitHub\programmering-2\Observerreal\bin\Debug\netcoreapp3.1\Observerreal.dll
+C:\Users\pontus.forslermott\Documents\GitHub\programmering-2\Observerreal\bin\Debug\netcoreapp3.1\Observerreal.pdb
+C:\Users\pontus.forslermott\Documents\GitHub\programmering-2\Observerreal\obj\Debug\netcoreapp3.1\Observerreal.csprojAssemblyReference.cache
+C:\Users\pontus.forslermott\Documents\GitHub\programmering-2\Observerreal\obj\Debug\netcoreapp3.1\Observerreal.AssemblyInfoInputs.cache
+C:\Users\pontus.forslermott\Documents\GitHub\programmering-2\Observerreal\obj\Debug\netcoreapp3.1\Observerreal.AssemblyInfo.cs
+C:\Users\pontus.forslermott\Documents\GitHub\programmering-2\Observerreal\obj\Debug\netcoreapp3.1\Observerreal.csproj.CoreCompileInputs.cache
+C:\Users\pontus.forslermott\Documents\GitHub\programmering-2\Observerreal\obj\Debug\netcoreapp3.1\Observerreal.dll
+C:\Users\pontus.forslermott\Documents\GitHub\programmering-2\Observerreal\obj\Debug\netcoreapp3.1\Observerreal.pdb
+C:\Users\pontus.forslermott\Documents\GitHub\programmering-2\Observerreal\obj\Debug\netcoreapp3.1\Observerreal.genruntimeconfig.cache

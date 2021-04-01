@@ -14,7 +14,7 @@ namespace Observerreal
             Observer observer2 = new Observer("Observer 2");
             subject.Subscribe(observer2);
 
-            subject.Inventory++;
+            
 
             Observer observer3 = new Observer("Observer 3");
             subject.Subscribe(observer3);
