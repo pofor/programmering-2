@@ -5,8 +5,22 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Floppy_bird"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
+        Title="Flappy bird" Height="490" Width="525">
+    <Canvas Name="Mycanvas" Focusable="True" KeyDown="KeyIsDown" KeyUp="KeyIsUP" Background="LightBlue">
 
-    </Grid>
+        <Image Height="120" Width="176" Source="images/clouds.png" Canvas.Left="86" Canvas.Top="113" Tag="cloud"/>
+        <Image Height="105" Width="154" Source="images/clouds2.png" Canvas.Left="328" Canvas.Top="70" Tag="cloud"/>
+
+        <Image Height="390" Width="66" Source="images/pipeBottom.png" Tag="obs1" Canvas.Left="230" Canvas.Top="350"/>
+        <Image Height="390" Width="66" Source="images/pipeTop.png" Tag="obs1" Canvas.Left="230" Canvas.Top="-153"/>
+
+        <Image Height="390" Width="66" Source="images/pipeBottom.png" Tag="obs2" Canvas.Left="52" Canvas.Top="237"/>
+        <Image Height="390" Width="66" Source="images/pipeTop.png" Tag="obs2" Canvas.Left="52" Canvas.Top="-289"/>
+
+        <Image Height="390" Width="66" Source="images/pipeBottom.png" Tag="obs3" Canvas.Left="404" Canvas.Top="300"/>
+        <Image Height="390" Width="66" Source="images/pipeTop.png" Tag="obs3" Canvas.Left="404" Canvas.Top="-238"/>
+
+        <Image Name="flappybird" Height="36" Width="50" Source="images/flappyBird.png" Stretch="Fill" Canvas.Left="0" Canvas.Top="0"/>
+
+    </Canvas>
 </Window>
