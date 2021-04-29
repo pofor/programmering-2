@@ -1,0 +1,19 @@
+C:\Users\pontus.forslermott\Documents\GitHub\programmering-2\Floppy bird\bin\Debug\netcoreapp3.1\Floppy bird.exe
+C:\Users\pontus.forslermott\Documents\GitHub\programmering-2\Floppy bird\bin\Debug\netcoreapp3.1\Floppy bird.deps.json
+C:\Users\pontus.forslermott\Documents\GitHub\programmering-2\Floppy bird\bin\Debug\netcoreapp3.1\Floppy bird.runtimeconfig.json
+C:\Users\pontus.forslermott\Documents\GitHub\programmering-2\Floppy bird\bin\Debug\netcoreapp3.1\Floppy bird.runtimeconfig.dev.json
+C:\Users\pontus.forslermott\Documents\GitHub\programmering-2\Floppy bird\bin\Debug\netcoreapp3.1\Floppy bird.dll
+C:\Users\pontus.forslermott\Documents\GitHub\programmering-2\Floppy bird\bin\Debug\netcoreapp3.1\Floppy bird.pdb
+C:\Users\pontus.forslermott\Documents\GitHub\programmering-2\Floppy bird\obj\Debug\netcoreapp3.1\Floppy bird.csprojAssemblyReference.cache
+C:\Users\pontus.forslermott\Documents\GitHub\programmering-2\Floppy bird\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\pontus.forslermott\Documents\GitHub\programmering-2\Floppy bird\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\pontus.forslermott\Documents\GitHub\programmering-2\Floppy bird\obj\Debug\netcoreapp3.1\Floppy bird_MarkupCompile.cache
+C:\Users\pontus.forslermott\Documents\GitHub\programmering-2\Floppy bird\obj\Debug\netcoreapp3.1\Floppy bird_MarkupCompile.lref
+C:\Users\pontus.forslermott\Documents\GitHub\programmering-2\Floppy bird\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\pontus.forslermott\Documents\GitHub\programmering-2\Floppy bird\obj\Debug\netcoreapp3.1\Floppy bird.g.resources
+C:\Users\pontus.forslermott\Documents\GitHub\programmering-2\Floppy bird\obj\Debug\netcoreapp3.1\Floppy bird.AssemblyInfoInputs.cache
+C:\Users\pontus.forslermott\Documents\GitHub\programmering-2\Floppy bird\obj\Debug\netcoreapp3.1\Floppy bird.AssemblyInfo.cs
+C:\Users\pontus.forslermott\Documents\GitHub\programmering-2\Floppy bird\obj\Debug\netcoreapp3.1\Floppy bird.csproj.CoreCompileInputs.cache
+C:\Users\pontus.forslermott\Documents\GitHub\programmering-2\Floppy bird\obj\Debug\netcoreapp3.1\Floppy bird.dll
+C:\Users\pontus.forslermott\Documents\GitHub\programmering-2\Floppy bird\obj\Debug\netcoreapp3.1\Floppy bird.pdb
+C:\Users\pontus.forslermott\Documents\GitHub\programmering-2\Floppy bird\obj\Debug\netcoreapp3.1\Floppy bird.genruntimeconfig.cache

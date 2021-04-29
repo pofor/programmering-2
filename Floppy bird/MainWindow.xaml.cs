@@ -12,7 +12,6 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-
 using System.Windows.Threading;
 
 namespace Floppy_bird
@@ -22,7 +21,6 @@ namespace Floppy_bird
     /// </summary>
     public partial class MainWindow : Window
     {
-
 
         DispatcherTimer gameTimer = new DispatcherTimer();
         double score;
@@ -34,7 +32,6 @@ namespace Floppy_bird
         public MainWindow()
         {
             InitializeComponent();
-
             gameTimer.Tick += MainEventTimer;
             gameTimer.Interval = TimeSpan.FromMilliseconds(20);
             StartGame();
@@ -43,22 +40,20 @@ namespace Floppy_bird
 
         private void MainEventTimer(object sender, EventArgs e)
         {
-            
+       
         }
 
         private void KeyIsDown(object sender, KeyEventArgs e)
         {
             if (e.Key == Key.Space)
             {
-                flappyBird.RenderTransform = new RotateTransform(-20, flappyBird.Width / 2, flappyBird.Height / 2);
+                flappyBird.RenderTransform = new RotateTransform(-20, flappyBird.Width /2, flappyBird.Height / 2);
                 gravity = -8;
             }
             if (e.Key == Key.R && gameOver == true)
             {
                 StartGame();
             }
-
-
         }
 
         private void KeyIsUP(object sender, KeyEventArgs e)
@@ -66,7 +61,6 @@ namespace Floppy_bird
             flappyBird.RenderTransform = new RotateTransform(5, flappyBird.Width / 2, flappyBird.Height / 2);
             gravity = 8;
         }
-
 
         private void StartGame()
         {
@@ -77,7 +71,7 @@ namespace Floppy_bird
             score = 0;
 
             gameOver = false;
-            Canvas.SetTop(flappybird, 190);
+            Canvas.SetTop(flappyBird, 190);
 
             foreach (var x in MyCanvas.Children.OfType<Image>())
             {
@@ -95,7 +89,7 @@ namespace Floppy_bird
                 }
                 if ((string)x.Tag == "cloud")
                 {
-                    Canvas.SetLeft(x, 300 + temp );
+                    Canvas.SetLeft(x, 300 + temp);
                     temp = 800;
                 }
 
