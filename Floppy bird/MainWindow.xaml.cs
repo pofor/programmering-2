@@ -17,7 +17,7 @@ using System.Windows.Threading;
 namespace Floppy_bird
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// This method holds all the other methods of the class and adds variables
     /// </summary>
     public partial class MainWindow : Window
     {
@@ -28,7 +28,9 @@ namespace Floppy_bird
         bool gameOver;
         Rect flappyBirdHitBox;
 
-
+        /// <summary>
+        /// This method calls 
+        /// </summary>
         public MainWindow()
         {
             InitializeComponent();
@@ -37,7 +39,11 @@ namespace Floppy_bird
             StartGame();
 
         }
-
+           /// <summary>
+           /// 
+           /// </summary>
+           /// <param name="sender">objekt</param>
+           /// <param name="e">objekt</param>
         private void MainEventTimer(object sender, EventArgs e)
         {
             txtScore.Content = "score" + score;
@@ -85,7 +91,11 @@ namespace Floppy_bird
                 }
             }
         }
-
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void KeyIsDown(object sender, KeyEventArgs e)
         {
             if (e.Key == Key.Space)
@@ -104,7 +114,13 @@ namespace Floppy_bird
             flappyBird.RenderTransform = new RotateTransform(5, flappyBird.Width / 2, flappyBird.Height / 2);
             gravity = 8;
         }
-
+        /// <summary>
+        /// This method starts the game and makes the canvas the focus of the program so it runs faster.
+        /// It also sets the default value of the game here.
+        /// It also contains a for each loop that loops through all the images and then it specifice what we want to move and where to move it through tags. 
+        /// This makes it so that the obstacles moves off screen to be meet again so the character moves forward. 
+        /// It also makes the clouds move like the obstacles. 
+        /// </summary>
         private void StartGame()
         {
             MyCanvas.Focus();
